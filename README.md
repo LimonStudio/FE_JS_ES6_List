@@ -37,15 +37,23 @@ A: docs/ 目录一般用来存放图片等信息。
 
 ## 目录
 
-1. **[let 和 const 等标识符](#let和cons等标识符)**
-2. **[ES6 符号](#ES6符号)**
+1. **[let 等标识符](#let数据类型说明符)**
+2. **[const 等标识符](#const数据类型说明符)**
+3. **[ES6 符号](#ES6符号)**
 
-## let和cons等标识符
+## let数据类型说明符
 
 📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
-📚 [/let&const](/let&const)
+📚 [/let](/let)
 
 说明：如果你在使用 es6 的新语法，你一定会接触到申明变量的过程中方便的 let 与 const，let 和 const 的加入，让 var 几乎可以舍弃了，这个在 es5 中让众多开发者陷入作用域的思考。
+
+## const数据类型说明符
+
+📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
+📚 [/const](/const)
+
+const 的本质就如同在C语言一样，一个常量不能变动，但是当它指向的是一些指针时，往往就不太一样了。
 
 ## ES6符号
 
