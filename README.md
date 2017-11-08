@@ -43,20 +43,20 @@ A: `docs/` 目录一般用来存放图片等信息。
 
 ## let数据类型说明符
 
-📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
-📚 [/let](/let)
+- 📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
+- 📚 [/let](/let)
 
 说明：如果你在使用 es6 的新语法，你一定会接触到申明变量的过程中方便的 let 与 const，let 和 const 的加入，让 var 几乎可以舍弃了，这个在 es5 中让众多开发者陷入作用域的思考。
 
 ## const数据类型说明符
 
-📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
-📚 [/const](/const)
+- 📖 [ES6入门-阮一峰](http://es6.ruanyifeng.com/#docs/let)
+- 📚 [/const](/const)
 
 const 的本质就如同在C语言一样，一个常量不能变动，但是当它指向的是一些指针时，往往就不太一样了。
 
 ## ES6符号
 
-📚 [/signed](/signed)
+- 📚 [/signed](/signed)
 
 说明：符号这是很多人会忽略的问题，一来是可以深入到计算机编码的问题，二来，着实不太可能会用到，除非，你在开发一些表情包之类的问题。
