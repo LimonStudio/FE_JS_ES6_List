@@ -33,7 +33,7 @@ A: `docs/` 目录一般用来存放图片等信息。
 * 🛠: 在线工具/测试工具
 * 📹: 媒体或视频内容
 
-[![](/docs/images/logo.png)](https://www.producthunt.com/posts/front-end-checklist)
+[![](/docs/images/logo&logo.png)](https://github.com/LimonStudio)
 
 ## 目录
 
